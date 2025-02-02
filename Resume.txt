@@ -3,3 +3,30 @@
 ==================================
 My name is Syeda Tehreem Tasawar.I am a Computer Science student passionate about web development and problem-solving.
 I am continuously learning and growing in the field of programming.
+
+==================================
+            Education
+==================================
+Bachelor of Science in Computer Science
+International Islamic University, Islamabad (2023 - 2027)
+
+- 1st Semester:
+  - Subject 1: Discrete Structures
+  - Subject 2: English Composition and Comprehension
+  - Subject 3: Calculus and Analytical Geometry
+  - Subject 4: Applied Physics
+  - Subject 5: Introduction to ICT
+  
+- 2nd Semester:
+  - Subject 1: Programming Fundamentals
+  - Subject 2: Digital Logic and Design
+  - Subject 3: Quranic Studies
+  - Subject 4: Communication and Presentation Skills
+  - Subject 5: Multivariate Calculus
+
+- 3rd Semester:
+  - Subject 1: Object Oriented Programming
+  - Subject 2: Introduction to Software Engineering 
+  - Subject 3: Introduction to Social Media Marketing
+  - Subject 4: Linear Algebra
+  - Subject 5: Probability and Statistics
