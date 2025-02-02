@@ -53,3 +53,15 @@ International Islamic University, Islamabad (2023 - 2027)
             Experience
  ==================================
  No formal work experience yet. However, I have gained valuable skills through academic projects and personal development.
+
+ ==================================
+            Skills
+ ==================================
+ Technical Skills:
+- Programming languages: C++
+- Web development: HTML and CSS
+ Soft Skills:
+- Teamwork
+- Problem-solving
+- Time management
+
