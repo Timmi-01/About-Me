@@ -30,3 +30,21 @@ International Islamic University, Islamabad (2023 - 2027)
   - Subject 3: Introduction to Social Media Marketing
   - Subject 4: Linear Algebra
   - Subject 5: Probability and Statistics
+
+  ==================================
+            Projects
+  ==================================
+
+*Library Management System*  
+- Developed a basic library management system for managing books in the IT and CS departments.  
+- Features include searching, borrowing, and returning books.  
+- Implemented using C++ with basic class concepts.  
+
+*Finance Tracking App*  
+- Designed a finance tracking app to manage budgeting and savings.  
+- Focused on high-priority features like expense tracking and goal setting.  
+
+*Student Record Management System*  
+- Built a C++ program to store and manage student records.  
+- Included functionalities like adding, searching, and deleting student details.  
+- Ensured user-friendly interaction without complex backend storage.  
