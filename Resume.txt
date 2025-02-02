@@ -47,4 +47,9 @@ International Islamic University, Islamabad (2023 - 2027)
 *Student Record Management System*  
 - Built a C++ program to store and manage student records.  
 - Included functionalities like adding, searching, and deleting student details.  
-- Ensured user-friendly interaction without complex backend storage.  
+- Ensured user-friendly interaction without complex backend storage. 
+
+ ==================================
+            Experience
+ ==================================
+ No formal work experience yet. However, I have gained valuable skills through academic projects and personal development.
